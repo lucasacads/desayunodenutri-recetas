@@ -1,0 +1,16 @@
+{
+  "name": "200 Desayunos de Nutri",
+  "short_name": "Desayunos Nutri",
+  "description": "Adelgaza comiendo rico con 200 recetas de desayunos saludables",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/assets/icons/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

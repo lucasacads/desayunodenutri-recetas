@@ -1,7 +1,0 @@
-# robots.txt para 200 Desayunos de Nutri
-
-User-agent: *
-Allow: /
-
-# Sitemap
-Sitemap: https://seu-dominio.com/sitemap.xml
